@@ -28,3 +28,5 @@ Q9: Write a query to identify phones with 5G support and also list the top five 
 
 Q10: Calculate the total price of all mobiles for each brand.
 
+![Screenshot (23)](https://github.com/YussifAdam1/Mobile-analysis/assets/135960231/4ce7c932-1872-4835-b767-80cc057e32da)
+
